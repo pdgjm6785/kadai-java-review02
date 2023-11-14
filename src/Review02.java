@@ -7,7 +7,7 @@ public class Review02 {
             // iの値が３で割り切れるかつ５で割り切れるなら”FizzBuss”と表示
             if (i % 3 == 0 && i % 5 == 0) {
                 System.out.println("FizzBuzz");
-            // iの値が３で割り切れるなら”Fizz”と表示
+            // iの値が3で割り切れるなら”Fizz”と表示
             }else if (i % 3 == 0) {
                 System.out.println("Fizz");
             // iの値が5で割り切れるなら”Buzz”と表示
